@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Andrew Oelschlager  
 
-<!--
-**andrewoels/andrewoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Senior Design Student at the University of Notre Dame**  
+🎨 **Creative with 8+ years of experience in branding, design, and digital media**  
+🎮 **Brand Designer at EA SPORTS**  
+📸 **Passionate about storytelling through photography and design**  
+🌐 **Exploring intersections of design, ethics, and technology**  
 
-Here are some ideas to get you started:
+### 🔧 Tools of choice:  
+- Adobe Creative Suite  
+- Figma  
+- And more!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Open to collaborations in creative design, UX/UI, and digital storytelling**  
+
+Let’s connect and create!  
