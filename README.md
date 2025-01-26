@@ -8,9 +8,14 @@
 
 ### 🔧 Tools of choice:  
 - Adobe Creative Suite  
+- Python
 - Figma  
-- And more!  
+- And more!
 
-💡 **Open to collaborations in creative design, UX/UI, and digital storytelling**  
+### 🔗 Links:
+- Creative Portfolio: https://www.behance.net/andrewoelschlager
+- Coding Projects: https://github.com/andrewoels/Oelschlager-Python-Portfolio
+
+💡 **Open to collaborations in creative design and digital storytelling**  
 
 Let’s connect and create!  
