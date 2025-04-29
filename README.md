@@ -7,6 +7,12 @@
 🌐 **Exploring intersections of design, ethics, and technology**  
 
 ---
+
+### 🔗 Links:
+- Creative Portfolio: https://www.behance.net/andrewoelschlager
+- Coding Projects: https://github.com/andrewoels/Oelschlager-Python-Portfolio  
+
+---
   
 ### 👨‍💻 Experience:  
 
@@ -31,11 +37,6 @@
 - And more!  
 
 ---
-
-### 🔗 Links:
-- Creative Portfolio: https://www.behance.net/andrewoelschlager
-- Coding Projects: https://github.com/andrewoels/Oelschlager-Python-Portfolio  
-
   
 💡 **Open to collaborations in creative design and digital storytelling**  
 
