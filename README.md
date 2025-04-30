@@ -16,7 +16,7 @@
   
 ### 👨‍💻 Experience:  
 
-**Electronic Arts (present)** | *American Football Brand Designer*
+**EA Sports (present)** | *American Football Brand Designer*
 - Design promotional graphics for College Football 25 and Madden NFL 25. These graphics are posted on numerous channels including the EA Sports website, social media, and virtual storefronts.
 - Update marketing projects such as Madden “99 Club” logo, Madden VIP Beta branding, and College Football 25 exclusive merchandise.
 - Produce internal design work for EA Sports developers to ensure consistent and high-level branding at all levels of company operations
